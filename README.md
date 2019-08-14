@@ -2,7 +2,7 @@
 
 A GIPHY API dynamic web page with gifs of the most popular series on TV.
 
-Visit the page here: .
+Visit the page here: https://eligorniak.github.io/GifTastic/.
 
 
 # How the page works:
